@@ -7,7 +7,6 @@
 ### Some stats about my routine techs ⭐
 
 <div align="left">
-<img alt="Volodymyr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vovabasket97&show_icons=true&theme=transparent&hide=contribs,stars"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovabasket97&layout=compact&&langs_count=8"/>
 </div>
 
