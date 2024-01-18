@@ -18,4 +18,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masytskyi/)
 [![gmail](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vovabasket97@gmail.com)
-[![Read.cv](https://img.shields.io/static/v1?style=for-the-badge&message=Read.cv&color=C6C6C6&logo=Read.cv&logoColor=111111&label=CV)](https://docs.google.com/document/d/1TFKTOBPMHIyoiE2fmTylqABrXpudtCcK/edit#heading=h.gjdgxs)
+[![Read.cv](https://img.shields.io/static/v1?style=for-the-badge&message=CV&color=C6C6C6&logo=Read.cv&logoColor=FFFFFF&label=)](https://docs.google.com/document/d/1TFKTOBPMHIyoiE2fmTylqABrXpudtCcK/edit#heading=h.gjdgxs)
