@@ -7,7 +7,7 @@
 ### Some stats about my routine techs ⭐
 
 <div align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=vovabasket97&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovabasket97&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovabasket97&layout=compact&&langs_count=8"/>
 </div>
