@@ -7,6 +7,7 @@
 #### Some stats about my routine techs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovabasket97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![vovabasket97 profile views](https://u8views.com/api/v1/github/profiles/70752103/views/day-week-month-total-count.svg)](https://u8views.com/github/vovabasket97)
 
 ## 🔗 How to reach me
 
