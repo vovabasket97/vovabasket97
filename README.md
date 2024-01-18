@@ -18,4 +18,5 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masytskyi/)
 [![gmail](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vovabasket97@gmail.com)
-[My Resume/CV](https://docs.google.com/document/d/1TFKTOBPMHIyoiE2fmTylqABrXpudtCcK/edit#heading=h.gjdgxs)
+[![cv](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=readdotcv&logoColor=red)](https://docs.google.com/document/d/1TFKTOBPMHIyoiE2fmTylqABrXpudtCcK/edit#heading=h.gjdgxs)
+
