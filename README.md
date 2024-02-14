@@ -1,5 +1,9 @@
 # Greetings, I'm Vova! 👋
 
+Frontend Engineer with experience in Javascript / Typescript of work in e-commerce, landing pages, education platforms, and 3D configurators. I have worked with furniture, laundry, helicopters, game character configurators, landing pages, e-commerce websites, and other integrations.
+
+I pay attention to detail and like study )
+
 #### Some stats about my activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vovabasket97&hide_border=true&border_radius=6)](https://git.io/streak-stats)
